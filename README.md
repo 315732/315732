@@ -8,6 +8,3 @@ I'm a **Security Researcher** and **Software Engineer** passionate about securin
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@315732/aa984579-6e83-415b-8fd6-40395589972a.svg"></embed></figure>
-
----
