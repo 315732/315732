@@ -2,6 +2,6 @@
 
 I'm a **Security Researcher** and **Software Engineer** passionate about securing systems and exploring emerging technologies.
 
-<img src="https://tryhackme.com/p/315732" alt="Your Image Badge" />
+![315732](https://github.com/user-attachments/assets/07b9a458-41b1-4778-b7c6-463b99df0573)
 
 ---
