@@ -15,6 +15,6 @@ I'm a **Security Researcher** and **Software Engineer** dedicated to securing sy
 
 ### 🚀 Skills & Tools
 - **Programming Languages**: Rust, PHP, and Python
-- **Security**: Penetration Testing, Threat Modeling, Secure Coding Practices
+- **Security**: Penetration Testing, Secure Coding Practices
 
 ---
